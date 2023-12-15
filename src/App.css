@@ -29,6 +29,8 @@ h1 {
   margin-top: 5rem;
   padding: 2rem;
   border-radius: 5px;
+  border: #fff solid 3px;
+  box-shadow : 6px 8px 60px black ;
 }
 
 .TodoForm {
